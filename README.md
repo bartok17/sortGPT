@@ -3,7 +3,6 @@
 
 Small FastAPI service that uses modern technology of Generative AI to sort data. it doesn't require any specification how to sort these items, the algorithm will determine it on its own.
 
-DISCLAIMER: since program uses very advanced method, generating result might take some time
 
 ## Setup
 
